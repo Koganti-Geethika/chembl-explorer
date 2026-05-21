@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\chembl-explorer\backend\src\main\java\com\centella\chembl\client\ChemblApiClient.java
+C:\Users\USER\Desktop\chembl-explorer\backend\src\main\java\com\centella\chembl\controller\ActivityController.java
+C:\Users\USER\Desktop\chembl-explorer\backend\src\main\java\com\centella\chembl\service\ActivityService.java
+C:\Users\USER\Desktop\chembl-explorer\backend\src\main\java\com\centella\chembl\exception\TargetNotFoundException.java
+C:\Users\USER\Desktop\chembl-explorer\backend\src\main\java\com\centella\chembl\dto\SummaryInsights.java
+C:\Users\USER\Desktop\chembl-explorer\backend\src\main\java\com\centella\chembl\dto\ChemblApiResponse.java
+C:\Users\USER\Desktop\chembl-explorer\backend\src\main\java\com\centella\chembl\ChemblExplorerApplication.java
+C:\Users\USER\Desktop\chembl-explorer\backend\src\main\java\com\centella\chembl\dto\TopCompound.java
+C:\Users\USER\Desktop\chembl-explorer\backend\src\main\java\com\centella\chembl\dto\ActivityResponse.java
+C:\Users\USER\Desktop\chembl-explorer\backend\src\main\java\com\centella\chembl\config\CacheConfig.java
+C:\Users\USER\Desktop\chembl-explorer\backend\src\main\java\com\centella\chembl\dto\ActivityRecord.java
+C:\Users\USER\Desktop\chembl-explorer\backend\src\main\java\com\centella\chembl\exception\ChemblApiException.java
+C:\Users\USER\Desktop\chembl-explorer\backend\src\main\java\com\centella\chembl\exception\GlobalExceptionHandler.java
+C:\Users\USER\Desktop\chembl-explorer\backend\src\main\java\com\centella\chembl\exception\InvalidTargetIdException.java
